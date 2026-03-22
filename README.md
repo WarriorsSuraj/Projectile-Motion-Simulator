@@ -1,1 +1,1 @@
-This is a simple physics projectile motion simulator programmed using matplotlib in Python.
+This is a simple projectile motion simulator programmed using matplotlib in Python.
